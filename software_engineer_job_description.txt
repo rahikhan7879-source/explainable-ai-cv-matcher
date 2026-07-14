@@ -1,0 +1,25 @@
+Job Title: Software Engineer
+
+We are seeking a Software Engineer to design, develop, test and
+maintain reliable software applications.
+
+The ideal candidate should have experience with Python, SQL,
+object-oriented programming, REST APIs, Git, Docker and cloud
+technologies such as AWS.
+
+Knowledge of machine learning, Pandas, NumPy, Scikit-learn,
+software testing and Agile development is desirable.
+
+The candidate should demonstrate strong problem-solving,
+communication, teamwork and software-development skills.
+
+Main responsibilities include:
+
+- Developing and maintaining Python applications
+- Creating and integrating REST APIs
+- Working with SQL databases
+- Using Git for version control
+- Testing and debugging software
+- Supporting containerised applications using Docker
+- Contributing to Agile software-development projects
+- Producing clear technical documentation

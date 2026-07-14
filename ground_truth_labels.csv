@@ -1,0 +1,21 @@
+Candidate ID,File Name,Ground Truth Label,Years of Experience,Number of Required Skills,Required Skills Present
+Candidate_01,Candidate_01.docx,High,7,9,"Python, Software Testing, Git, REST APIs, NumPy, Object-Oriented Programming, Docker, Agile, Scikit-learn"
+Candidate_02,Candidate_02.docx,High,6,9,"Python, SQL, REST APIs, Scikit-learn, Pandas, Agile, Git, Software Testing, AWS"
+Candidate_03,Candidate_03.docx,High,4,9,"Agile, Object-Oriented Programming, AWS, Docker, Git, Software Testing, SQL, Machine Learning, Python"
+Candidate_04,Candidate_04.docx,High,5,11,"Docker, NumPy, Git, Python, Machine Learning, SQL, REST APIs, Software Testing, Scikit-learn, Object-Oriented Programming, AWS"
+Candidate_05,Candidate_05.docx,High,6,9,"Python, Scikit-learn, REST APIs, Git, SQL, Software Testing, AWS, Agile, Machine Learning"
+Candidate_06,Candidate_06.docx,High,5,10,"Docker, Agile, REST APIs, Git, SQL, Object-Oriented Programming, NumPy, Software Testing, Pandas, AWS"
+Candidate_07,Candidate_07.docx,High,7,11,"Agile, Python, REST APIs, Software Testing, Docker, AWS, Object-Oriented Programming, NumPy, SQL, Machine Learning, Pandas"
+Candidate_08,Candidate_08.docx,Medium,3,6,"Git, Object-Oriented Programming, REST APIs, Pandas, NumPy, Agile"
+Candidate_09,Candidate_09.docx,Medium,4,7,"REST APIs, Object-Oriented Programming, Pandas, Machine Learning, SQL, Python, AWS"
+Candidate_10,Candidate_10.docx,Medium,4,6,"Agile, Scikit-learn, AWS, NumPy, SQL, Software Testing"
+Candidate_11,Candidate_11.docx,Medium,3,7,"Pandas, Python, Scikit-learn, SQL, Agile, Git, AWS"
+Candidate_12,Candidate_12.docx,Medium,4,6,"Machine Learning, Python, Git, Pandas, Object-Oriented Programming, SQL"
+Candidate_13,Candidate_13.docx,Medium,2,6,"Object-Oriented Programming, Docker, Agile, Pandas, NumPy, Python"
+Candidate_14,Candidate_14.docx,Medium,2,7,"Agile, Git, REST APIs, Python, Scikit-learn, SQL, NumPy"
+Candidate_15,Candidate_15.docx,Low,2,2,"Scikit-learn, Machine Learning"
+Candidate_16,Candidate_16.docx,Low,1,4,"REST APIs, Pandas, Agile, Git"
+Candidate_17,Candidate_17.docx,Low,1,4,"Pandas, Machine Learning, SQL, REST APIs"
+Candidate_18,Candidate_18.docx,Low,0,1,NumPy
+Candidate_19,Candidate_19.docx,Low,0,1,Software Testing
+Candidate_20,Candidate_20.docx,Low,0,3,"SQL, Pandas, REST APIs"
