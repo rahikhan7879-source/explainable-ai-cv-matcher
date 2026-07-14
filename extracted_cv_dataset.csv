@@ -1,0 +1,536 @@
+Candidate ID,File Name,Raw Text,Clean Text,Word Count,Extraction Status,Ground Truth Label,Years of Experience,Number of Required Skills
+Candidate_01,Candidate_01.docx,"Candidate_01
+Professional Profile
+Experienced software engineer with 7 years of professional experience developing scalable applications. Strong knowledge of Python, Software Testing, Git, REST APIs, NumPy. Experienced in backend development, cloud deployment, testing and Agile software delivery.
+Technical Skills
+Python
+Software Testing
+Git
+REST APIs
+NumPy
+Object-Oriented Programming
+Docker
+Agile
+Scikit-learn
+Kubernetes
+Professional Experience
+Software Engineer — Synthetic Technology Organisation
+Approximate experience: 7 years
+Developed production software using Python and Software Testing.
+Designed backend services and integrated databases.
+Participated in code reviews, testing and debugging.
+Worked in an Agile team using version-control tools.
+Supported deployment and technical documentation.
+Projects
+Candidate Matching Application: Developed a software application for matching documents using semantic text analysis and structured data.
+Cloud-Based API: Designed and deployed a backend API connected to a relational database.
+Education
+BSc Computer Science
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 01 professional profile experienced software engineer with 7 years of professional experience developing scalable applications. strong knowledge of python software testing git rest apis numpy. experienced in backend development cloud deployment testing and agile software delivery. technical skills python software testing git rest apis numpy object-oriented programming docker agile scikit-learn kubernetes professional experience software engineer synthetic technology organisation approximate experience 7 years developed production software using python and software testing. designed backend services and integrated databases. participated in code reviews testing and debugging. worked in an agile team using version-control tools. supported deployment and technical documentation. projects candidate matching application developed a software application for matching documents using semantic text analysis and structured data. cloud-based api designed and deployed a backend api connected to a relational database. education bsc computer science additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,146,Successful,High,7,9
+Candidate_02,Candidate_02.docx,"Candidate_02
+Professional Profile
+Experienced software engineer with 6 years of professional experience developing scalable applications. Strong knowledge of Python, SQL, REST APIs, Scikit-learn, Pandas. Experienced in backend development, cloud deployment, testing and Agile software delivery.
+Technical Skills
+Python
+SQL
+REST APIs
+Scikit-learn
+Pandas
+Agile
+Git
+Software Testing
+AWS
+Django
+MySQL
+Professional Experience
+Software Engineer — Synthetic Technology Organisation
+Approximate experience: 6 years
+Developed production software using Python and SQL.
+Designed backend services and integrated databases.
+Participated in code reviews, testing and debugging.
+Worked in an Agile team using version-control tools.
+Supported deployment and technical documentation.
+Projects
+Candidate Matching Application: Developed a software application for matching documents using semantic text analysis and structured data.
+Cloud-Based API: Designed and deployed a backend API connected to a relational database.
+Education
+BSc Computer Science
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 02 professional profile experienced software engineer with 6 years of professional experience developing scalable applications. strong knowledge of python sql rest apis scikit-learn pandas. experienced in backend development cloud deployment testing and agile software delivery. technical skills python sql rest apis scikit-learn pandas agile git software testing aws django mysql professional experience software engineer synthetic technology organisation approximate experience 6 years developed production software using python and sql. designed backend services and integrated databases. participated in code reviews testing and debugging. worked in an agile team using version-control tools. supported deployment and technical documentation. projects candidate matching application developed a software application for matching documents using semantic text analysis and structured data. cloud-based api designed and deployed a backend api connected to a relational database. education bsc computer science additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,144,Successful,High,6,9
+Candidate_03,Candidate_03.docx,"Candidate_03
+Professional Profile
+Experienced software engineer with 4 years of professional experience developing scalable applications. Strong knowledge of Agile, Object-Oriented Programming, AWS, Docker, Git. Experienced in backend development, cloud deployment, testing and Agile software delivery.
+Technical Skills
+Agile
+Object-Oriented Programming
+AWS
+Docker
+Git
+Software Testing
+SQL
+Machine Learning
+Python
+PostgreSQL
+Professional Experience
+Software Engineer — Synthetic Technology Organisation
+Approximate experience: 4 years
+Developed production software using Agile and Object-Oriented Programming.
+Designed backend services and integrated databases.
+Participated in code reviews, testing and debugging.
+Worked in an Agile team using version-control tools.
+Supported deployment and technical documentation.
+Projects
+Candidate Matching Application: Developed a software application for matching documents using semantic text analysis and structured data.
+Cloud-Based API: Designed and deployed a backend API connected to a relational database.
+Education
+BSc Computer Science
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 03 professional profile experienced software engineer with 4 years of professional experience developing scalable applications. strong knowledge of agile object-oriented programming aws docker git. experienced in backend development cloud deployment testing and agile software delivery. technical skills agile object-oriented programming aws docker git software testing sql machine learning python postgresql professional experience software engineer synthetic technology organisation approximate experience 4 years developed production software using agile and object-oriented programming. designed backend services and integrated databases. participated in code reviews testing and debugging. worked in an agile team using version-control tools. supported deployment and technical documentation. projects candidate matching application developed a software application for matching documents using semantic text analysis and structured data. cloud-based api designed and deployed a backend api connected to a relational database. education bsc computer science additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,145,Successful,High,4,9
+Candidate_04,Candidate_04.docx,"Candidate_04
+Professional Profile
+Experienced software engineer with 5 years of professional experience developing scalable applications. Strong knowledge of Docker, NumPy, Git, Python, Machine Learning. Experienced in backend development, cloud deployment, testing and Agile software delivery.
+Technical Skills
+Docker
+NumPy
+Git
+Python
+Machine Learning
+SQL
+REST APIs
+Software Testing
+Scikit-learn
+Object-Oriented Programming
+AWS
+Power BI
+Linux
+Kubernetes
+Professional Experience
+Software Engineer — Synthetic Technology Organisation
+Approximate experience: 5 years
+Developed production software using Docker and NumPy.
+Designed backend services and integrated databases.
+Participated in code reviews, testing and debugging.
+Worked in an Agile team using version-control tools.
+Supported deployment and technical documentation.
+Projects
+Candidate Matching Application: Developed a software application for matching documents using semantic text analysis and structured data.
+Cloud-Based API: Designed and deployed a backend API connected to a relational database.
+Education
+BSc Computer Science
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 04 professional profile experienced software engineer with 5 years of professional experience developing scalable applications. strong knowledge of docker numpy git python machine learning. experienced in backend development cloud deployment testing and agile software delivery. technical skills docker numpy git python machine learning sql rest apis software testing scikit-learn object-oriented programming aws power bi linux kubernetes professional experience software engineer synthetic technology organisation approximate experience 5 years developed production software using docker and numpy. designed backend services and integrated databases. participated in code reviews testing and debugging. worked in an agile team using version-control tools. supported deployment and technical documentation. projects candidate matching application developed a software application for matching documents using semantic text analysis and structured data. cloud-based api designed and deployed a backend api connected to a relational database. education bsc computer science additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,150,Successful,High,5,11
+Candidate_05,Candidate_05.docx,"Candidate_05
+Professional Profile
+Experienced software engineer with 6 years of professional experience developing scalable applications. Strong knowledge of Python, Scikit-learn, REST APIs, Git, SQL. Experienced in backend development, cloud deployment, testing and Agile software delivery.
+Technical Skills
+Python
+Scikit-learn
+REST APIs
+Git
+SQL
+Software Testing
+AWS
+Agile
+Machine Learning
+MySQL
+CI/CD
+Professional Experience
+Software Engineer — Synthetic Technology Organisation
+Approximate experience: 6 years
+Developed production software using Python and Scikit-learn.
+Designed backend services and integrated databases.
+Participated in code reviews, testing and debugging.
+Worked in an Agile team using version-control tools.
+Supported deployment and technical documentation.
+Projects
+Candidate Matching Application: Developed a software application for matching documents using semantic text analysis and structured data.
+Cloud-Based API: Designed and deployed a backend API connected to a relational database.
+Education
+BSc Computer Science
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 05 professional profile experienced software engineer with 6 years of professional experience developing scalable applications. strong knowledge of python scikit-learn rest apis git sql. experienced in backend development cloud deployment testing and agile software delivery. technical skills python scikit-learn rest apis git sql software testing aws agile machine learning mysql ci/cd professional experience software engineer synthetic technology organisation approximate experience 6 years developed production software using python and scikit-learn. designed backend services and integrated databases. participated in code reviews testing and debugging. worked in an agile team using version-control tools. supported deployment and technical documentation. projects candidate matching application developed a software application for matching documents using semantic text analysis and structured data. cloud-based api designed and deployed a backend api connected to a relational database. education bsc computer science additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,145,Successful,High,6,9
+Candidate_06,Candidate_06.docx,"Candidate_06
+Professional Profile
+Experienced software engineer with 5 years of professional experience developing scalable applications. Strong knowledge of Docker, Agile, REST APIs, Git, SQL. Experienced in backend development, cloud deployment, testing and Agile software delivery.
+Technical Skills
+Docker
+Agile
+REST APIs
+Git
+SQL
+Object-Oriented Programming
+NumPy
+Software Testing
+Pandas
+AWS
+PostgreSQL
+FastAPI
+Professional Experience
+Software Engineer — Synthetic Technology Organisation
+Approximate experience: 5 years
+Developed production software using Docker and Agile.
+Designed backend services and integrated databases.
+Participated in code reviews, testing and debugging.
+Worked in an Agile team using version-control tools.
+Supported deployment and technical documentation.
+Projects
+Candidate Matching Application: Developed a software application for matching documents using semantic text analysis and structured data.
+Cloud-Based API: Designed and deployed a backend API connected to a relational database.
+Education
+BSc Computer Science
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 06 professional profile experienced software engineer with 5 years of professional experience developing scalable applications. strong knowledge of docker agile rest apis git sql. experienced in backend development cloud deployment testing and agile software delivery. technical skills docker agile rest apis git sql object-oriented programming numpy software testing pandas aws postgresql fastapi professional experience software engineer synthetic technology organisation approximate experience 5 years developed production software using docker and agile. designed backend services and integrated databases. participated in code reviews testing and debugging. worked in an agile team using version-control tools. supported deployment and technical documentation. projects candidate matching application developed a software application for matching documents using semantic text analysis and structured data. cloud-based api designed and deployed a backend api connected to a relational database. education bsc computer science additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,146,Successful,High,5,10
+Candidate_07,Candidate_07.docx,"Candidate_07
+Professional Profile
+Experienced software engineer with 7 years of professional experience developing scalable applications. Strong knowledge of Agile, Python, REST APIs, Software Testing, Docker. Experienced in backend development, cloud deployment, testing and Agile software delivery.
+Technical Skills
+Agile
+Python
+REST APIs
+Software Testing
+Docker
+AWS
+Object-Oriented Programming
+NumPy
+SQL
+Machine Learning
+Pandas
+MySQL
+PostgreSQL
+CI/CD
+Professional Experience
+Software Engineer — Synthetic Technology Organisation
+Approximate experience: 7 years
+Developed production software using Agile and Python.
+Designed backend services and integrated databases.
+Participated in code reviews, testing and debugging.
+Worked in an Agile team using version-control tools.
+Supported deployment and technical documentation.
+Projects
+Candidate Matching Application: Developed a software application for matching documents using semantic text analysis and structured data.
+Cloud-Based API: Designed and deployed a backend API connected to a relational database.
+Education
+BSc Computer Science
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 07 professional profile experienced software engineer with 7 years of professional experience developing scalable applications. strong knowledge of agile python rest apis software testing docker. experienced in backend development cloud deployment testing and agile software delivery. technical skills agile python rest apis software testing docker aws object-oriented programming numpy sql machine learning pandas mysql postgresql ci/cd professional experience software engineer synthetic technology organisation approximate experience 7 years developed production software using agile and python. designed backend services and integrated databases. participated in code reviews testing and debugging. worked in an agile team using version-control tools. supported deployment and technical documentation. projects candidate matching application developed a software application for matching documents using semantic text analysis and structured data. cloud-based api designed and deployed a backend api connected to a relational database. education bsc computer science additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,150,Successful,High,7,11
+Candidate_08,Candidate_08.docx,"Candidate_08
+Professional Profile
+Junior software developer with approximately 3 years of experience. Familiar with Git, Object-Oriented Programming, REST APIs, Pandas, NumPy. Has worked on academic and small commercial software projects and is seeking to develop stronger software-engineering expertise.
+Technical Skills
+Git
+Object-Oriented Programming
+REST APIs
+Pandas
+NumPy
+Agile
+Kubernetes
+PostgreSQL
+Power BI
+Professional Experience
+Junior Software Developer — Synthetic Technology Organisation
+Approximate experience: 3 years
+Assisted with application development using Git.
+Completed software testing and debugging tasks.
+Worked with senior developers on small software features.
+Used version control for academic and junior projects.
+Projects
+Student Management System: Created a small application for storing and retrieving student information.
+Data Analysis Project: Cleaned and analysed a structured dataset using programming libraries.
+Education
+BSc Information Technology
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 08 professional profile junior software developer with approximately 3 years of experience. familiar with git object-oriented programming rest apis pandas numpy. has worked on academic and small commercial software projects and is seeking to develop stronger software-engineering expertise. technical skills git object-oriented programming rest apis pandas numpy agile kubernetes postgresql power bi professional experience junior software developer synthetic technology organisation approximate experience 3 years assisted with application development using git. completed software testing and debugging tasks. worked with senior developers on small software features. used version control for academic and junior projects. projects student management system created a small application for storing and retrieving student information. data analysis project cleaned and analysed a structured dataset using programming libraries. education bsc information technology additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,137,Successful,Medium,3,6
+Candidate_09,Candidate_09.docx,"Candidate_09
+Professional Profile
+Junior software developer with approximately 4 years of experience. Familiar with REST APIs, Object-Oriented Programming, Pandas, Machine Learning, SQL. Has worked on academic and small commercial software projects and is seeking to develop stronger software-engineering expertise.
+Technical Skills
+REST APIs
+Object-Oriented Programming
+Pandas
+Machine Learning
+SQL
+Python
+AWS
+Flask
+Professional Experience
+Junior Software Developer — Synthetic Technology Organisation
+Approximate experience: 4 years
+Assisted with application development using REST APIs.
+Completed software testing and debugging tasks.
+Worked with senior developers on small software features.
+Used version control for academic and junior projects.
+Projects
+Student Management System: Created a small application for storing and retrieving student information.
+Data Analysis Project: Cleaned and analysed a structured dataset using programming libraries.
+Education
+BSc Information Technology
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 09 professional profile junior software developer with approximately 4 years of experience. familiar with rest apis object-oriented programming pandas machine learning sql. has worked on academic and small commercial software projects and is seeking to develop stronger software-engineering expertise. technical skills rest apis object-oriented programming pandas machine learning sql python aws flask professional experience junior software developer synthetic technology organisation approximate experience 4 years assisted with application development using rest apis. completed software testing and debugging tasks. worked with senior developers on small software features. used version control for academic and junior projects. projects student management system created a small application for storing and retrieving student information. data analysis project cleaned and analysed a structured dataset using programming libraries. education bsc information technology additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,138,Successful,Medium,4,7
+Candidate_10,Candidate_10.docx,"Candidate_10
+Professional Profile
+Junior software developer with approximately 4 years of experience. Familiar with Agile, Scikit-learn, AWS, NumPy, SQL. Has worked on academic and small commercial software projects and is seeking to develop stronger software-engineering expertise.
+Technical Skills
+Agile
+Scikit-learn
+AWS
+NumPy
+SQL
+Software Testing
+Kubernetes
+MySQL
+Professional Experience
+Junior Software Developer — Synthetic Technology Organisation
+Approximate experience: 4 years
+Assisted with application development using Agile.
+Completed software testing and debugging tasks.
+Worked with senior developers on small software features.
+Used version control for academic and junior projects.
+Projects
+Student Management System: Created a small application for storing and retrieving student information.
+Data Analysis Project: Cleaned and analysed a structured dataset using programming libraries.
+Education
+BSc Information Technology
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 10 professional profile junior software developer with approximately 4 years of experience. familiar with agile scikit-learn aws numpy sql. has worked on academic and small commercial software projects and is seeking to develop stronger software-engineering expertise. technical skills agile scikit-learn aws numpy sql software testing kubernetes mysql professional experience junior software developer synthetic technology organisation approximate experience 4 years assisted with application development using agile. completed software testing and debugging tasks. worked with senior developers on small software features. used version control for academic and junior projects. projects student management system created a small application for storing and retrieving student information. data analysis project cleaned and analysed a structured dataset using programming libraries. education bsc information technology additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,132,Successful,Medium,4,6
+Candidate_11,Candidate_11.docx,"Candidate_11
+Professional Profile
+Junior software developer with approximately 3 years of experience. Familiar with Pandas, Python, Scikit-learn, SQL, Agile. Has worked on academic and small commercial software projects and is seeking to develop stronger software-engineering expertise.
+Technical Skills
+Pandas
+Python
+Scikit-learn
+SQL
+Agile
+Git
+AWS
+Linux
+JavaScript
+FastAPI
+Professional Experience
+Junior Software Developer — Synthetic Technology Organisation
+Approximate experience: 3 years
+Assisted with application development using Pandas.
+Completed software testing and debugging tasks.
+Worked with senior developers on small software features.
+Used version control for academic and junior projects.
+Projects
+Student Management System: Created a small application for storing and retrieving student information.
+Data Analysis Project: Cleaned and analysed a structured dataset using programming libraries.
+Education
+BSc Information Technology
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 11 professional profile junior software developer with approximately 3 years of experience. familiar with pandas python scikit-learn sql agile. has worked on academic and small commercial software projects and is seeking to develop stronger software-engineering expertise. technical skills pandas python scikit-learn sql agile git aws linux javascript fastapi professional experience junior software developer synthetic technology organisation approximate experience 3 years assisted with application development using pandas. completed software testing and debugging tasks. worked with senior developers on small software features. used version control for academic and junior projects. projects student management system created a small application for storing and retrieving student information. data analysis project cleaned and analysed a structured dataset using programming libraries. education bsc information technology additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,133,Successful,Medium,3,7
+Candidate_12,Candidate_12.docx,"Candidate_12
+Professional Profile
+Junior software developer with approximately 4 years of experience. Familiar with Machine Learning, Python, Git, Pandas, Object-Oriented Programming. Has worked on academic and small commercial software projects and is seeking to develop stronger software-engineering expertise.
+Technical Skills
+Machine Learning
+Python
+Git
+Pandas
+Object-Oriented Programming
+SQL
+FastAPI
+CI/CD
+TensorFlow
+Professional Experience
+Junior Software Developer — Synthetic Technology Organisation
+Approximate experience: 4 years
+Assisted with application development using Machine Learning.
+Completed software testing and debugging tasks.
+Worked with senior developers on small software features.
+Used version control for academic and junior projects.
+Projects
+Student Management System: Created a small application for storing and retrieving student information.
+Data Analysis Project: Cleaned and analysed a structured dataset using programming libraries.
+Education
+BSc Information Technology
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 12 professional profile junior software developer with approximately 4 years of experience. familiar with machine learning python git pandas object-oriented programming. has worked on academic and small commercial software projects and is seeking to develop stronger software-engineering expertise. technical skills machine learning python git pandas object-oriented programming sql fastapi ci/cd tensorflow professional experience junior software developer synthetic technology organisation approximate experience 4 years assisted with application development using machine learning. completed software testing and debugging tasks. worked with senior developers on small software features. used version control for academic and junior projects. projects student management system created a small application for storing and retrieving student information. data analysis project cleaned and analysed a structured dataset using programming libraries. education bsc information technology additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,137,Successful,Medium,4,6
+Candidate_13,Candidate_13.docx,"Candidate_13
+Professional Profile
+Junior software developer with approximately 2 years of experience. Familiar with Object-Oriented Programming, Docker, Agile, Pandas, NumPy. Has worked on academic and small commercial software projects and is seeking to develop stronger software-engineering expertise.
+Technical Skills
+Object-Oriented Programming
+Docker
+Agile
+Pandas
+NumPy
+Python
+Linux
+MySQL
+Java
+Professional Experience
+Junior Software Developer — Synthetic Technology Organisation
+Approximate experience: 2 years
+Assisted with application development using Object-Oriented Programming.
+Completed software testing and debugging tasks.
+Worked with senior developers on small software features.
+Used version control for academic and junior projects.
+Projects
+Student Management System: Created a small application for storing and retrieving student information.
+Data Analysis Project: Cleaned and analysed a structured dataset using programming libraries.
+Education
+BSc Information Technology
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 13 professional profile junior software developer with approximately 2 years of experience. familiar with object-oriented programming docker agile pandas numpy. has worked on academic and small commercial software projects and is seeking to develop stronger software-engineering expertise. technical skills object-oriented programming docker agile pandas numpy python linux mysql java professional experience junior software developer synthetic technology organisation approximate experience 2 years assisted with application development using object-oriented programming. completed software testing and debugging tasks. worked with senior developers on small software features. used version control for academic and junior projects. projects student management system created a small application for storing and retrieving student information. data analysis project cleaned and analysed a structured dataset using programming libraries. education bsc information technology additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,135,Successful,Medium,2,6
+Candidate_14,Candidate_14.docx,"Candidate_14
+Professional Profile
+Junior software developer with approximately 2 years of experience. Familiar with Agile, Git, REST APIs, Python, Scikit-learn. Has worked on academic and small commercial software projects and is seeking to develop stronger software-engineering expertise.
+Technical Skills
+Agile
+Git
+REST APIs
+Python
+Scikit-learn
+SQL
+NumPy
+MySQL
+JavaScript
+TensorFlow
+Professional Experience
+Junior Software Developer — Synthetic Technology Organisation
+Approximate experience: 2 years
+Assisted with application development using Agile.
+Completed software testing and debugging tasks.
+Worked with senior developers on small software features.
+Used version control for academic and junior projects.
+Projects
+Student Management System: Created a small application for storing and retrieving student information.
+Data Analysis Project: Cleaned and analysed a structured dataset using programming libraries.
+Education
+BSc Information Technology
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 14 professional profile junior software developer with approximately 2 years of experience. familiar with agile git rest apis python scikit-learn. has worked on academic and small commercial software projects and is seeking to develop stronger software-engineering expertise. technical skills agile git rest apis python scikit-learn sql numpy mysql javascript tensorflow professional experience junior software developer synthetic technology organisation approximate experience 2 years assisted with application development using agile. completed software testing and debugging tasks. worked with senior developers on small software features. used version control for academic and junior projects. projects student management system created a small application for storing and retrieving student information. data analysis project cleaned and analysed a structured dataset using programming libraries. education bsc information technology additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,135,Successful,Medium,2,7
+Candidate_15,Candidate_15.docx,"Candidate_15
+Professional Profile
+Entry-level applicant with 2 years of general technology experience. Has limited exposure to Scikit-learn, Machine Learning, Flask, FastAPI, TensorFlow. Most previous experience has focused on administrative support, customer service and basic computer operations.
+Technical Skills
+Scikit-learn
+Machine Learning
+Flask
+FastAPI
+TensorFlow
+Professional Experience
+IT Support Assistant — Synthetic Technology Organisation
+Approximate experience: 2 years
+Provided general computer and administrative support.
+Installed software and helped users resolve basic technical issues.
+Maintained records and responded to customer queries.
+Completed introductory online programming courses.
+Projects
+Personal Website: Created a basic informational website as part of an introductory technology course.
+Education
+Bachelor of Business Administration
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 15 professional profile entry-level applicant with 2 years of general technology experience. has limited exposure to scikit-learn machine learning flask fastapi tensorflow. most previous experience has focused on administrative support customer service and basic computer operations. technical skills scikit-learn machine learning flask fastapi tensorflow professional experience it support assistant synthetic technology organisation approximate experience 2 years provided general computer and administrative support. installed software and helped users resolve basic technical issues. maintained records and responded to customer queries. completed introductory online programming courses. projects personal website created a basic informational website as part of an introductory technology course. education bachelor of business administration additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,118,Successful,Low,2,2
+Candidate_16,Candidate_16.docx,"Candidate_16
+Professional Profile
+Entry-level applicant with 1 years of general technology experience. Has limited exposure to REST APIs, Pandas, Agile, Git, CI/CD. Most previous experience has focused on administrative support, customer service and basic computer operations.
+Technical Skills
+REST APIs
+Pandas
+Agile
+Git
+CI/CD
+Power BI
+Professional Experience
+IT Support Assistant — Synthetic Technology Organisation
+Approximate experience: 1 years
+Provided general computer and administrative support.
+Installed software and helped users resolve basic technical issues.
+Maintained records and responded to customer queries.
+Completed introductory online programming courses.
+Projects
+Personal Website: Created a basic informational website as part of an introductory technology course.
+Education
+Bachelor of Business Administration
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 16 professional profile entry-level applicant with 1 years of general technology experience. has limited exposure to rest apis pandas agile git ci/cd. most previous experience has focused on administrative support customer service and basic computer operations. technical skills rest apis pandas agile git ci/cd power bi professional experience it support assistant synthetic technology organisation approximate experience 1 years provided general computer and administrative support. installed software and helped users resolve basic technical issues. maintained records and responded to customer queries. completed introductory online programming courses. projects personal website created a basic informational website as part of an introductory technology course. education bachelor of business administration additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,120,Successful,Low,1,4
+Candidate_17,Candidate_17.docx,"Candidate_17
+Professional Profile
+Entry-level applicant with 1 years of general technology experience. Has limited exposure to Pandas, Machine Learning, SQL, REST APIs, JavaScript. Most previous experience has focused on administrative support, customer service and basic computer operations.
+Technical Skills
+Pandas
+Machine Learning
+SQL
+REST APIs
+JavaScript
+Professional Experience
+IT Support Assistant — Synthetic Technology Organisation
+Approximate experience: 1 years
+Provided general computer and administrative support.
+Installed software and helped users resolve basic technical issues.
+Maintained records and responded to customer queries.
+Completed introductory online programming courses.
+Projects
+Personal Website: Created a basic informational website as part of an introductory technology course.
+Education
+Bachelor of Business Administration
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 17 professional profile entry-level applicant with 1 years of general technology experience. has limited exposure to pandas machine learning sql rest apis javascript. most previous experience has focused on administrative support customer service and basic computer operations. technical skills pandas machine learning sql rest apis javascript professional experience it support assistant synthetic technology organisation approximate experience 1 years provided general computer and administrative support. installed software and helped users resolve basic technical issues. maintained records and responded to customer queries. completed introductory online programming courses. projects personal website created a basic informational website as part of an introductory technology course. education bachelor of business administration additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,120,Successful,Low,1,4
+Candidate_18,Candidate_18.docx,"Candidate_18
+Professional Profile
+Entry-level applicant with 0 years of general technology experience. Has limited exposure to NumPy, Django, Kubernetes, Power BI. Most previous experience has focused on administrative support, customer service and basic computer operations.
+Technical Skills
+NumPy
+Django
+Kubernetes
+Power BI
+Professional Experience
+IT Support Assistant — Synthetic Technology Organisation
+Approximate experience: 0 years
+Provided general computer and administrative support.
+Installed software and helped users resolve basic technical issues.
+Maintained records and responded to customer queries.
+Completed introductory online programming courses.
+Projects
+Personal Website: Created a basic informational website as part of an introductory technology course.
+Education
+Bachelor of Business Administration
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 18 professional profile entry-level applicant with 0 years of general technology experience. has limited exposure to numpy django kubernetes power bi. most previous experience has focused on administrative support customer service and basic computer operations. technical skills numpy django kubernetes power bi professional experience it support assistant synthetic technology organisation approximate experience 0 years provided general computer and administrative support. installed software and helped users resolve basic technical issues. maintained records and responded to customer queries. completed introductory online programming courses. projects personal website created a basic informational website as part of an introductory technology course. education bachelor of business administration additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,116,Successful,Low,0,1
+Candidate_19,Candidate_19.docx,"Candidate_19
+Professional Profile
+Entry-level applicant with 0 years of general technology experience. Has limited exposure to Software Testing, Java, Django, JavaScript. Most previous experience has focused on administrative support, customer service and basic computer operations.
+Technical Skills
+Software Testing
+Java
+Django
+JavaScript
+Professional Experience
+IT Support Assistant — Synthetic Technology Organisation
+Approximate experience: 0 years
+Provided general computer and administrative support.
+Installed software and helped users resolve basic technical issues.
+Maintained records and responded to customer queries.
+Completed introductory online programming courses.
+Projects
+Personal Website: Created a basic informational website as part of an introductory technology course.
+Education
+Bachelor of Business Administration
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 19 professional profile entry-level applicant with 0 years of general technology experience. has limited exposure to software testing java django javascript. most previous experience has focused on administrative support customer service and basic computer operations. technical skills software testing java django javascript professional experience it support assistant synthetic technology organisation approximate experience 0 years provided general computer and administrative support. installed software and helped users resolve basic technical issues. maintained records and responded to customer queries. completed introductory online programming courses. projects personal website created a basic informational website as part of an introductory technology course. education bachelor of business administration additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,116,Successful,Low,0,1
+Candidate_20,Candidate_20.docx,"Candidate_20
+Professional Profile
+Entry-level applicant with 0 years of general technology experience. Has limited exposure to SQL, Pandas, REST APIs, CI/CD, MySQL. Most previous experience has focused on administrative support, customer service and basic computer operations.
+Technical Skills
+SQL
+Pandas
+REST APIs
+CI/CD
+MySQL
+Professional Experience
+IT Support Assistant — Synthetic Technology Organisation
+Approximate experience: 0 years
+Provided general computer and administrative support.
+Installed software and helped users resolve basic technical issues.
+Maintained records and responded to customer queries.
+Completed introductory online programming courses.
+Projects
+Personal Website: Created a basic informational website as part of an introductory technology course.
+Education
+Bachelor of Business Administration
+Additional Information
+This is an anonymised synthetic CV created solely for academic prototype evaluation.",candidate 20 professional profile entry-level applicant with 0 years of general technology experience. has limited exposure to sql pandas rest apis ci/cd mysql. most previous experience has focused on administrative support customer service and basic computer operations. technical skills sql pandas rest apis ci/cd mysql professional experience it support assistant synthetic technology organisation approximate experience 0 years provided general computer and administrative support. installed software and helped users resolve basic technical issues. maintained records and responded to customer queries. completed introductory online programming courses. projects personal website created a basic informational website as part of an introductory technology course. education bachelor of business administration additional information this is an anonymised synthetic cv created solely for academic prototype evaluation.,118,Successful,Low,0,3

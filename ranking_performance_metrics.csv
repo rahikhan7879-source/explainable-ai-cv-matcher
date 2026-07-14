@@ -1,0 +1,7 @@
+Metric,BM25 Baseline,Sentence-BERT + Skills,Improvement
+NDCG@5,1.0,1.0,0.0
+NDCG@10,1.0,1.0,0.0
+Precision@5,1.0,1.0,0.0
+Recall@5,0.7143,0.7143,0.0
+Precision@10,0.7,0.7,0.0
+Recall@10,1.0,1.0,0.0

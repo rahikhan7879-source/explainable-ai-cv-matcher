@@ -1,0 +1,21 @@
+Semantic Rank,Candidate ID,Ground Truth Label,Years of Experience,Number of Required Skills,Semantic Similarity,Semantic Score (%)
+1,Candidate_02,High,6,9,0.7685,76.85
+2,Candidate_01,High,7,9,0.767,76.7
+3,Candidate_03,High,4,9,0.7616,76.16
+4,Candidate_08,Medium,3,6,0.7612,76.12
+5,Candidate_14,Medium,2,7,0.7593,75.93
+6,Candidate_04,High,5,11,0.7526,75.26
+7,Candidate_06,High,5,10,0.7442,74.42
+8,Candidate_05,High,6,9,0.7432,74.32
+9,Candidate_07,High,7,11,0.7388,73.88
+10,Candidate_13,Medium,2,6,0.7343,73.43
+11,Candidate_11,Medium,3,7,0.7315,73.15
+12,Candidate_12,Medium,4,6,0.7168,71.68
+13,Candidate_09,Medium,4,7,0.7141,71.41
+14,Candidate_10,Medium,4,6,0.6987,69.87
+15,Candidate_16,Low,1,4,0.5766,57.66
+16,Candidate_20,Low,0,3,0.5187,51.87
+17,Candidate_17,Low,1,4,0.5108,51.08
+18,Candidate_19,Low,0,1,0.4678,46.78
+19,Candidate_18,Low,0,1,0.4463,44.63
+20,Candidate_15,Low,2,2,0.4263,42.63

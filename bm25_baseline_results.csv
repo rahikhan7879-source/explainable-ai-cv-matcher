@@ -1,0 +1,21 @@
+BM25 Rank,Candidate ID,Ground Truth Label,BM25 Raw Score,BM25 Score (%)
+1,Candidate_04,High,13.0342,100.0
+2,Candidate_06,High,11.8441,87.34
+3,Candidate_03,High,11.838,87.28
+4,Candidate_07,High,11.4256,82.89
+5,Candidate_01,High,11.2061,80.55
+6,Candidate_05,High,10.2081,69.94
+7,Candidate_02,High,9.5778,63.23
+8,Candidate_13,Medium,9.5029,62.43
+9,Candidate_09,Medium,8.3836,50.53
+10,Candidate_12,Medium,8.289,49.52
+11,Candidate_14,Medium,7.927,45.67
+12,Candidate_11,Medium,7.5845,42.03
+13,Candidate_10,Medium,7.5259,41.4
+14,Candidate_08,Medium,7.5254,41.4
+15,Candidate_17,Low,5.171,16.35
+16,Candidate_15,Low,5.0502,15.06
+17,Candidate_16,Low,4.2123,6.15
+18,Candidate_20,Low,4.0298,4.21
+19,Candidate_19,Low,3.7848,1.6
+20,Candidate_18,Low,3.6341,0.0

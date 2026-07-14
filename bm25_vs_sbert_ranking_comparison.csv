@@ -1,0 +1,21 @@
+BM25 Rank,Candidate ID,Ground Truth Label,BM25 Raw Score,BM25 Score (%),Final Rank,Final Score (%),Predicted Suitability,Rank Improvement
+1,Candidate_04,High,13.0342,100.0,1,80.38,High,0
+4,Candidate_07,High,11.4256,82.89,2,77.1,High,2
+2,Candidate_06,High,11.8441,87.34,3,75.17,High,-1
+7,Candidate_02,High,9.5778,63.23,4,74.56,High,3
+5,Candidate_01,High,11.2061,80.55,5,74.46,High,0
+3,Candidate_03,High,11.838,87.28,6,74.08,High,-3
+6,Candidate_05,High,10.2081,69.94,7,72.79,High,-1
+8,Candidate_13,Medium,9.5029,62.43,8,72.17,High,0
+14,Candidate_08,Medium,7.5254,41.4,9,71.75,High,5
+11,Candidate_14,Medium,7.927,45.67,10,71.62,High,1
+9,Candidate_09,Medium,8.3836,50.53,11,70.75,High,-2
+12,Candidate_11,Medium,7.5845,42.03,12,69.67,Medium,0
+10,Candidate_12,Medium,8.289,49.52,13,66.33,Medium,-3
+13,Candidate_10,Medium,7.5259,41.4,14,65.06,Medium,-1
+17,Candidate_16,Low,4.2123,6.15,15,49.59,Low,2
+15,Candidate_17,Low,5.171,16.35,16,44.98,Low,-1
+18,Candidate_20,Low,4.0298,4.21,17,43.23,Low,1
+19,Candidate_19,Low,3.7848,1.6,18,35.05,Low,1
+16,Candidate_15,Low,5.0502,15.06,19,34.45,Low,-3
+20,Candidate_18,Low,3.6341,0.0,20,33.55,Low,0
